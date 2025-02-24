@@ -1,11 +1,13 @@
 # proyecto-amigo-secreto
 
 Título del Proyecto
+
 proyecto Amigo Secreto
 
 
 
 Ejecutando las pruebas ⚙️
+
 Al inicio del Juego, se debera colocar nombres de tus amigos, los cuales no debe llevar espacios, numeros o caracteres. esto para agilizar el juego.
 
 
