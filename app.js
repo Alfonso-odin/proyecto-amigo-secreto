@@ -53,7 +53,7 @@ function limpiarCaja() {
 }
 
 
-// Función de celebración (animación de confeti, copos y burbujas)
+// Función de celebración (animación de confeti, copos y burbujas), generado por IA 
 function ejecutarCelebracion() {
     const tipos = ['confeti', 'copos', 'burbujas'];
     for (let i = 200; i > 0; i--) {
