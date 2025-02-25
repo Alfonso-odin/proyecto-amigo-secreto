@@ -29,7 +29,7 @@ function agregarAmigo() {
  // funcion para sorteo de amigos(nombres) y advertir que al menos sea una persona la que debe estar en lista.
 function sortearAmigo() {
     if (ListadoDeAmigos.length === 0) {
-        alert('Ingrese por lo menos un nombre para el sorteo');
+        alert('Ingresa por lo menos dos nombres para el Sorteo');
         return;
     }
 
