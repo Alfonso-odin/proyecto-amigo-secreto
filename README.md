@@ -21,4 +21,4 @@ Este prollecto es de licencia Gratuita
 
 Expresiones de Gratitud 🎁
 
-Gracias a colaboradores, Mods y comunidad de Alura latam por el material proporcionado 
+Gracias a colaboradores, Mods y comunidad de Alura latam por el material proporcionado.
